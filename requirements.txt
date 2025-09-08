@@ -1,0 +1,6 @@
+torch>=2.0
+transformers>=4.40.0
+huggingface_hub>=0.20.0
+Pillow
+accelerate
+deepseek-vl2 @ git+https://github.com/deepseek-ai/DeepSeek-VL2.git
