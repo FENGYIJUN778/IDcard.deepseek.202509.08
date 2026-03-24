@@ -1,5 +1,0 @@
-path: ./residence_card_yolo_dataset
-train: images/train
-val: images/val
-nc: 1
-names: ["residence_card"]
