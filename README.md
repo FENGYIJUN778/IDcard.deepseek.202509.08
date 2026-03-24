@@ -187,7 +187,7 @@ python time.py
 
 ## 👨‍💻 作者
 
-* FYJ
+* FENG YIJUN
 
 ---
 
