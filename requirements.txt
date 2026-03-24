@@ -1,6 +1,24 @@
-torch>=2.0
-transformers>=4.40.0
-huggingface_hub>=0.20.0
-Pillow
-accelerate
+# DeepSeek-VL2 模型依赖
+
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+transformers==4.38.2
+accelerate==0.21.0
+sentencepiece==0.2.0
+tokenizers==0.15.2
+safetensors==0.5.3
+
+# 图像处理
+
+pillow==11.3.0
+opencv-python==4.7.0.72
+numpy==1.26.4
+
+# 正则 & 数据处理
+
+regex==2024.11.6
+pandas==2.3.1
+tqdm==4.67.1
+PyYAML==6.0.2
+
 deepseek-vl2 @ git+https://github.com/deepseek-ai/DeepSeek-VL2.git
